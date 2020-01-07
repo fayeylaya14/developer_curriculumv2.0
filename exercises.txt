@@ -1,0 +1,25 @@
+Activity Questions:
+
+1. In Q1, Change "text1"'s font color to blue
+2. Add 10px to each section padding to the left.
+3. In Q4, change textgroup1's font size bigger.
+4. In Q7, change the font size of text4 smaller.
+5. In Q9, change the background color of child1 to pink from green.
+6. Align all texts to center.
+7. In Q5, make the text bold in textgroup2
+8. In Q7, add a background color to the whole section
+9. Make the font size bigger for all the first <p> inside <section>
+   hint: use the :nth-child selector
+10. In Q10, change the background color of all <p>'s in div with the class of box
+to black and also change the color of the text to orange.
+11. Remove the margin of the <body>
+12. Add 10 more spaces after every section.
+13. Make the width of each section half of the screen.
+14. Change the second <p> of each section's font attributes (font-style, font-size, font-weight, color) of your choice.
+15. Add padding 5px to all sides of textgroup3 in Q8.
+16. Change the width of each section and put everything at the center.
+    hint: add margin: 0 auto to align all the sections at the center
+17. Change each sections height to 250px
+18. Add another <section> right after Q10 and add a heading with the text "Hello World".
+19. Remove Q6 section
+20. Link all <a> tags to "#" in Q6 and try clicking each link
